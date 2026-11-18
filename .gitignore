@@ -1,0 +1,75 @@
+# ====================================================================
+# Glaucoma Detection Project - .gitignore
+# ====================================================================
+
+# 1. Datasets & Raw Archives (Over 7 GB - excluded for security & size)
+dataset/
+data/raw/
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# 2. Duplicate / Intermediate Checkpoints (Keep only *_best.pth)
+*_latest.pth
+experiments/
+
+# 3. Python Bytecode & Environment Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 4. Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 5. IDE & Editor Artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 6. Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# 7. Secrets & Sensitive Configs
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# 8. Unrelated local documents
+1stLLMvsLAYAreport.pdf

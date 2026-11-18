@@ -1,0 +1,6 @@
+Dataset,Total Images,Glaucoma,Normal,Unlabeled (Test/Val),Usable Masks,Corrupted,Sample Dimensions (W x H)
+ACRIMA,705,396,309,0,0,0,"[{'width': 1054, 'height': 1054}, {'width': 901, 'height': 901}]"
+DRISHTI-GS,101,70,31,0,101,0,"[{'width': 2045, 'height': 1752}, {'width': 2049, 'height': 1762}]"
+ORIGA,650,168,482,0,0,0,"[{'width': 394, 'height': 394}, {'width': 421, 'height': 421}]"
+REFUGE,1200,40,360,800,1200,0,"[{'width': 2124, 'height': 2056}, {'width': 1940, 'height': 1940}]"
+RIM-ONE-DL,485,172,313,0,0,0,"[{'width': 652, 'height': 652}, {'width': 551, 'height': 551}]"

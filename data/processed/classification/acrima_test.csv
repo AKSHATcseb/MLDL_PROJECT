@@ -1,0 +1,141 @@
+image_id,source_dataset,image_path,label,has_mask,mask_path,patient_id,split,width,height,channels,corrupted,notes
+Im322_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im322_g_ACRIMA.jpg,1.0,False,,Im322,test,796,796,3,False,Classification only
+Im323_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im323_g_ACRIMA.jpg,1.0,False,,Im323,test,904,904,3,False,Classification only
+Im324_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im324_g_ACRIMA.jpg,1.0,False,,Im324,test,613,613,3,False,Classification only
+Im325_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im325_g_ACRIMA.jpg,1.0,False,,Im325,test,574,574,3,False,Classification only
+Im326_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im326_g_ACRIMA.jpg,1.0,False,,Im326,test,694,694,3,False,Classification only
+Im338_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im338_g_ACRIMA.jpg,1.0,False,,Im338,test,337,337,3,False,Classification only
+Im345_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im345_g_ACRIMA.jpg,1.0,False,,Im345,test,535,535,3,False,Classification only
+Im354_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im354_g_ACRIMA.jpg,1.0,False,,Im354,test,877,877,3,False,Classification only
+Im356_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im356_g_ACRIMA.jpg,1.0,False,,Im356,test,190,190,3,False,Classification only
+Im360_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im360_g_ACRIMA.jpg,1.0,False,,Im360,test,292,292,3,False,Classification only
+Im375_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im375_g_ACRIMA.jpg,1.0,False,,Im375,test,220,220,3,False,Classification only
+Im430_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im430_g_ACRIMA.jpg,1.0,False,,Im430,test,532,532,3,False,Classification only
+Im431_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im431_g_ACRIMA.jpg,1.0,False,,Im431,test,547,547,3,False,Classification only
+Im432_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im432_g_ACRIMA.jpg,1.0,False,,Im432,test,658,658,3,False,Classification only
+Im433_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im433_g_ACRIMA.jpg,1.0,False,,Im433,test,499,499,3,False,Classification only
+Im434_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im434_g_ACRIMA.jpg,1.0,False,,Im434,test,688,686,3,False,Classification only
+Im435_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im435_g_ACRIMA.jpg,1.0,False,,Im435,test,748,741,3,False,Classification only
+Im443_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im443_g_ACRIMA.jpg,1.0,False,,Im443,test,457,457,3,False,Classification only
+Im452_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im452_g_ACRIMA.jpg,1.0,False,,Im452,test,550,550,3,False,Classification only
+Im458_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im458_g_ACRIMA.jpg,1.0,False,,Im458,test,544,544,3,False,Classification only
+Im459_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im459_g_ACRIMA.jpg,1.0,False,,Im459,test,496,496,3,False,Classification only
+Im464_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im464_g_ACRIMA.jpg,1.0,False,,Im464,test,676,676,3,False,Classification only
+Im478_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im478_g_ACRIMA.jpg,1.0,False,,Im478,test,673,673,3,False,Classification only
+Im479_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im479_g_ACRIMA.jpg,1.0,False,,Im479,test,580,580,3,False,Classification only
+Im480_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im480_g_ACRIMA.jpg,1.0,False,,Im480,test,682,682,3,False,Classification only
+Im481_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im481_g_ACRIMA.jpg,1.0,False,,Im481,test,643,643,3,False,Classification only
+Im482_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im482_g_ACRIMA.jpg,1.0,False,,Im482,test,604,604,3,False,Classification only
+Im483_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im483_g_ACRIMA.jpg,1.0,False,,Im483,test,529,529,3,False,Classification only
+Im484_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im484_g_ACRIMA.jpg,1.0,False,,Im484,test,586,586,3,False,Classification only
+Im485_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im485_g_ACRIMA.jpg,1.0,False,,Im485,test,868,868,3,False,Classification only
+Im486_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im486_g_ACRIMA.jpg,1.0,False,,Im486,test,787,787,3,False,Classification only
+Im487_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im487_g_ACRIMA.jpg,1.0,False,,Im487,test,841,841,3,False,Classification only
+Im553_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im553_g_ACRIMA.jpg,1.0,False,,Im553,test,520,520,3,False,Classification only
+Im554_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im554_g_ACRIMA.jpg,1.0,False,,Im554,test,514,514,3,False,Classification only
+Im566_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im566_g_ACRIMA.jpg,1.0,False,,Im566,test,751,751,3,False,Classification only
+Im575_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im575_g_ACRIMA.jpg,1.0,False,,Im575,test,802,802,3,False,Classification only
+Im585_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im585_g_ACRIMA.jpg,1.0,False,,Im585,test,751,751,3,False,Classification only
+Im592_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im592_g_ACRIMA.jpg,1.0,False,,Im592,test,817,817,3,False,Classification only
+Im594_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im594_g_ACRIMA.jpg,1.0,False,,Im594,test,907,907,3,False,Classification only
+Im598_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im598_g_ACRIMA.jpg,1.0,False,,Im598,test,721,721,3,False,Classification only
+Im602_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im602_g_ACRIMA.jpg,1.0,False,,Im602,test,742,742,3,False,Classification only
+Im615_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im615_g_ACRIMA.jpg,1.0,False,,Im615,test,997,997,3,False,Classification only
+Im618_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im618_g_ACRIMA.jpg,1.0,False,,Im618,test,697,697,3,False,Classification only
+Im630_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im630_g_ACRIMA.jpg,1.0,False,,Im630,test,760,760,3,False,Classification only
+Im640_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im640_g_ACRIMA.jpg,1.0,False,,Im640,test,1045,1045,3,False,Classification only
+Im642_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im642_g_ACRIMA.jpg,1.0,False,,Im642,test,916,916,3,False,Classification only
+Im647_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im647_g_ACRIMA.jpg,1.0,False,,Im647,test,850,850,3,False,Classification only
+Im652_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im652_g_ACRIMA.jpg,1.0,False,,Im652,test,859,859,3,False,Classification only
+Im670_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im670_g_ACRIMA.jpg,1.0,False,,Im670,test,757,757,3,False,Classification only
+Im671_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im671_g_ACRIMA.jpg,1.0,False,,Im671,test,865,865,3,False,Classification only
+Im672_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im672_g_ACRIMA.jpg,1.0,False,,Im672,test,901,901,3,False,Classification only
+Im673_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im673_g_ACRIMA.jpg,1.0,False,,Im673,test,1420,1420,3,False,Classification only
+Im674_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im674_g_ACRIMA.jpg,1.0,False,,Im674,test,994,994,3,False,Classification only
+Im675_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im675_g_ACRIMA.jpg,1.0,False,,Im675,test,964,964,3,False,Classification only
+Im676_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im676_g_ACRIMA.jpg,1.0,False,,Im676,test,967,967,3,False,Classification only
+Im677_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im677_g_ACRIMA.jpg,1.0,False,,Im677,test,838,838,3,False,Classification only
+Im678_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im678_g_ACRIMA.jpg,1.0,False,,Im678,test,979,979,3,False,Classification only
+Im679_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im679_g_ACRIMA.jpg,1.0,False,,Im679,test,982,982,3,False,Classification only
+Im680_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im680_g_ACRIMA.jpg,1.0,False,,Im680,test,1144,1144,3,False,Classification only
+Im682_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im682_g_ACRIMA.jpg,1.0,False,,Im682,test,826,826,3,False,Classification only
+Im683_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im683_g_ACRIMA.jpg,1.0,False,,Im683,test,832,832,3,False,Classification only
+Im684_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im684_g_ACRIMA.jpg,1.0,False,,Im684,test,793,793,3,False,Classification only
+Im685_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im685_g_ACRIMA.jpg,1.0,False,,Im685,test,940,940,3,False,Classification only
+Im686_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im686_g_ACRIMA.jpg,1.0,False,,Im686,test,1000,1000,3,False,Classification only
+Im687_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im687_g_ACRIMA.jpg,1.0,False,,Im687,test,817,817,3,False,Classification only
+Im688_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im688_g_ACRIMA.jpg,1.0,False,,Im688,test,736,736,3,False,Classification only
+Im689_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im689_g_ACRIMA.jpg,1.0,False,,Im689,test,601,601,3,False,Classification only
+Im690_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im690_g_ACRIMA.jpg,1.0,False,,Im690,test,688,688,3,False,Classification only
+Im691_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im691_g_ACRIMA.jpg,1.0,False,,Im691,test,694,694,3,False,Classification only
+Im692_g_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Glaucoma\Im692_g_ACRIMA.jpg,1.0,False,,Im692,test,796,796,3,False,Classification only
+Im013_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im013_ACRIMA.jpg,0.0,False,,Im013,test,349,349,3,False,Classification only
+Im014_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im014_ACRIMA.jpg,0.0,False,,Im014,test,337,337,3,False,Classification only
+Im015_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im015_ACRIMA.jpg,0.0,False,,Im015,test,388,388,3,False,Classification only
+Im016_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im016_ACRIMA.jpg,0.0,False,,Im016,test,376,376,3,False,Classification only
+Im017_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im017_ACRIMA.jpg,0.0,False,,Im017,test,376,376,3,False,Classification only
+Im018_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im018_ACRIMA.jpg,0.0,False,,Im018,test,316,316,3,False,Classification only
+Im019_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im019_ACRIMA.jpg,0.0,False,,Im019,test,355,355,3,False,Classification only
+Im020_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im020_ACRIMA.jpg,0.0,False,,Im020,test,352,352,3,False,Classification only
+Im021_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im021_ACRIMA.jpg,0.0,False,,Im021,test,277,277,3,False,Classification only
+Im022_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im022_ACRIMA.jpg,0.0,False,,Im022,test,310,310,3,False,Classification only
+Im023_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im023_ACRIMA.jpg,0.0,False,,Im023,test,328,328,3,False,Classification only
+Im024_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im024_ACRIMA.jpg,0.0,False,,Im024,test,379,379,3,False,Classification only
+Im085_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im085_ACRIMA.jpg,0.0,False,,Im085,test,403,403,3,False,Classification only
+Im086_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im086_ACRIMA.jpg,0.0,False,,Im086,test,409,409,3,False,Classification only
+Im087_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im087_ACRIMA.jpg,0.0,False,,Im087,test,337,337,3,False,Classification only
+Im088_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im088_ACRIMA.jpg,0.0,False,,Im088,test,454,454,3,False,Classification only
+Im089_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im089_ACRIMA.jpg,0.0,False,,Im089,test,397,397,3,False,Classification only
+Im090_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im090_ACRIMA.jpg,0.0,False,,Im090,test,382,382,3,False,Classification only
+Im091_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im091_ACRIMA.jpg,0.0,False,,Im091,test,397,397,3,False,Classification only
+Im092_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im092_ACRIMA.jpg,0.0,False,,Im092,test,292,292,3,False,Classification only
+Im093_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im093_ACRIMA.jpg,0.0,False,,Im093,test,277,277,3,False,Classification only
+Im094_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im094_ACRIMA.jpg,0.0,False,,Im094,test,388,388,3,False,Classification only
+Im095_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im095_ACRIMA.jpg,0.0,False,,Im095,test,355,355,3,False,Classification only
+Im157_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im157_ACRIMA.jpg,0.0,False,,Im157,test,379,379,3,False,Classification only
+Im158_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im158_ACRIMA.jpg,0.0,False,,Im158,test,316,316,3,False,Classification only
+Im159_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im159_ACRIMA.jpg,0.0,False,,Im159,test,421,421,3,False,Classification only
+Im160_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im160_ACRIMA.jpg,0.0,False,,Im160,test,298,298,3,False,Classification only
+Im161_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im161_ACRIMA.jpg,0.0,False,,Im161,test,364,364,3,False,Classification only
+Im162_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im162_ACRIMA.jpg,0.0,False,,Im162,test,334,334,3,False,Classification only
+Im163_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im163_ACRIMA.jpg,0.0,False,,Im163,test,355,355,3,False,Classification only
+Im164_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im164_ACRIMA.jpg,0.0,False,,Im164,test,295,295,3,False,Classification only
+Im165_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im165_ACRIMA.jpg,0.0,False,,Im165,test,319,319,3,False,Classification only
+Im193_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im193_ACRIMA.jpg,0.0,False,,Im193,test,343,343,3,False,Classification only
+Im194_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im194_ACRIMA.jpg,0.0,False,,Im194,test,343,343,3,False,Classification only
+Im195_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im195_ACRIMA.jpg,0.0,False,,Im195,test,358,358,3,False,Classification only
+Im196_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im196_ACRIMA.jpg,0.0,False,,Im196,test,382,382,3,False,Classification only
+Im197_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im197_ACRIMA.jpg,0.0,False,,Im197,test,355,355,3,False,Classification only
+Im198_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im198_ACRIMA.jpg,0.0,False,,Im198,test,328,328,3,False,Classification only
+Im199_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im199_ACRIMA.jpg,0.0,False,,Im199,test,325,325,3,False,Classification only
+Im200_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im200_ACRIMA.jpg,0.0,False,,Im200,test,337,337,3,False,Classification only
+Im201_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im201_ACRIMA.jpg,0.0,False,,Im201,test,349,349,3,False,Classification only
+Im222_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im222_ACRIMA.jpg,0.0,False,,Im222,test,388,388,3,False,Classification only
+Im239_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im239_ACRIMA.jpg,0.0,False,,Im239,test,355,355,3,False,Classification only
+Im241_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im241_ACRIMA.jpg,0.0,False,,Im241,test,382,382,3,False,Classification only
+Im242_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im242_ACRIMA.jpg,0.0,False,,Im242,test,277,277,3,False,Classification only
+Im243_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im243_ACRIMA.jpg,0.0,False,,Im243,test,382,382,3,False,Classification only
+Im244_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im244_ACRIMA.jpg,0.0,False,,Im244,test,388,388,3,False,Classification only
+Im245_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im245_ACRIMA.jpg,0.0,False,,Im245,test,322,322,3,False,Classification only
+Im246_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im246_ACRIMA.jpg,0.0,False,,Im246,test,277,277,3,False,Classification only
+Im247_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im247_ACRIMA.jpg,0.0,False,,Im247,test,268,268,3,False,Classification only
+Im248_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im248_ACRIMA.jpg,0.0,False,,Im248,test,340,340,3,False,Classification only
+Im249_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im249_ACRIMA.jpg,0.0,False,,Im249,test,310,310,3,False,Classification only
+Im250_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im250_ACRIMA.jpg,0.0,False,,Im250,test,364,364,3,False,Classification only
+Im251_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im251_ACRIMA.jpg,0.0,False,,Im251,test,289,289,3,False,Classification only
+Im277_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im277_ACRIMA.jpg,0.0,False,,Im277,test,265,265,3,False,Classification only
+Im278_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im278_ACRIMA.jpg,0.0,False,,Im278,test,283,283,3,False,Classification only
+Im279_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im279_ACRIMA.jpg,0.0,False,,Im279,test,343,343,3,False,Classification only
+Im280_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im280_ACRIMA.jpg,0.0,False,,Im280,test,337,337,3,False,Classification only
+Im281_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im281_ACRIMA.jpg,0.0,False,,Im281,test,352,352,3,False,Classification only
+Im282_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im282_ACRIMA.jpg,0.0,False,,Im282,test,328,328,3,False,Classification only
+Im283_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im283_ACRIMA.jpg,0.0,False,,Im283,test,370,370,3,False,Classification only
+Im284_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im284_ACRIMA.jpg,0.0,False,,Im284,test,322,322,3,False,Classification only
+Im285_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im285_ACRIMA.jpg,0.0,False,,Im285,test,388,388,3,False,Classification only
+Im286_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im286_ACRIMA.jpg,0.0,False,,Im286,test,331,331,3,False,Classification only
+Im287_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im287_ACRIMA.jpg,0.0,False,,Im287,test,283,283,3,False,Classification only
+Im289_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im289_ACRIMA.jpg,0.0,False,,Im289,test,343,343,3,False,Classification only
+Im292_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im292_ACRIMA.jpg,0.0,False,,Im292,test,328,328,3,False,Classification only
+Im303_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im303_ACRIMA.jpg,0.0,False,,Im303,test,442,442,3,False,Classification only
+Im306_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im306_ACRIMA.jpg,0.0,False,,Im306,test,301,301,3,False,Classification only
+Im308_ACRIMA.jpg,ACRIMA,e:\MLDL MODEL TRAINING PROJECT\dataset\test\Non Glaucoma\Im308_ACRIMA.jpg,0.0,False,,Im308,test,352,352,3,False,Classification only

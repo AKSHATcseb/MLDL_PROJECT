@@ -1,0 +1,24 @@
+# Segmentation Model & Training Configuration
+model:
+  architecture: "unet" # Options: unet, attention_unet
+  encoder_name: "resnet34"
+  encoder_weights: "imagenet"
+  in_channels: 3
+  classes: 3
+
+training:
+  seed: 42
+  batch_size: 4
+  epochs: 15
+  learning_rate: 1.0e-4
+  weight_decay: 1.0e-4
+  optimizer: "AdamW"
+  scheduler: "CosineAnnealingLR"
+  min_lr: 1.0e-6
+  loss: "CE_Dice"
+  ce_weight: 0.5
+  dice_weight: 0.5
+  early_stopping_patience: 5
+  device: "cpu"
+  checkpoint_dir: "e:/MLDL MODEL TRAINING PROJECT/checkpoints/segmentation"
+  results_dir: "e:/MLDL MODEL TRAINING PROJECT/results/segmentation"

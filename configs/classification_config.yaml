@@ -1,0 +1,23 @@
+# Classification Model & Training Configuration
+model:
+  architecture: "efficientnet_b0" # Options: efficientnet_b0, resnet50, densenet121
+  pretrained: true
+  num_classes: 1 # Binary output logit
+
+training:
+  seed: 42
+  batch_size: 16
+  epochs: 15
+  stage1_epochs: 3 # Train head only
+  stage2_epochs: 12 # Fine-tune backbone
+  head_lr: 1.0e-3
+  backbone_lr: 1.0e-4
+  weight_decay: 1.0e-4
+  optimizer: "AdamW"
+  scheduler: "ReduceLROnPlateau"
+  loss: "BCEWithLogitsLoss"
+  use_pos_weight: true
+  early_stopping_patience: 5
+  device: "cpu"
+  checkpoint_dir: "e:/MLDL MODEL TRAINING PROJECT/checkpoints/classification"
+  results_dir: "e:/MLDL MODEL TRAINING PROJECT/results/classification"

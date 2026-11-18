@@ -1,0 +1,27 @@
+# Dataset Configuration
+dataset_root: "e:/MLDL MODEL TRAINING PROJECT/dataset"
+manifest_path: "e:/MLDL MODEL TRAINING PROJECT/reports/unified_dataset_manifest.csv"
+
+# Preprocessing resolutions
+segmentation:
+  image_size: [384, 384] # [height, width] Memory-efficient and preserves fine ONH boundary
+  num_classes: 3 # 0: background, 1: optic disc rim, 2: optic cup
+  normalize_mean: [0.485, 0.456, 0.406]
+  normalize_std: [0.229, 0.224, 0.225]
+  batch_size: 4
+  num_workers: 0
+
+classification:
+  image_size: [224, 224] # [height, width] Standard for EfficientNet / ResNet
+  num_classes: 1 # Binary single logit (Glaucoma vs Normal)
+  normalize_mean: [0.485, 0.456, 0.406]
+  normalize_std: [0.229, 0.224, 0.225]
+  batch_size: 16
+  num_workers: 0
+
+augmentation:
+  horizontal_flip_prob: 0.5
+  vertical_flip_prob: 0.0 # Vertical flips anatomically discouraged for ISNT rule
+  rotation_limit: 15
+  brightness_contrast_prob: 0.3
+  shift_scale_rotate_prob: 0.3

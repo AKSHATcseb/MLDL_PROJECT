@@ -1,0 +1,11 @@
+sample_idx,image_id,ground_truth,prediction,probability,threshold,status,saved_figure
+1,Im322_g_ACRIMA.jpg,1,1,0.9748643040657043,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_01_correct_Im322_g_ACRIMA.jpg.png
+2,Im323_g_ACRIMA.jpg,1,1,0.9881038069725037,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_02_correct_Im323_g_ACRIMA.jpg.png
+3,Im324_g_ACRIMA.jpg,1,1,0.9982156753540039,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_03_correct_Im324_g_ACRIMA.jpg.png
+4,Im325_g_ACRIMA.jpg,1,1,0.9982289671897888,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_04_correct_Im325_g_ACRIMA.jpg.png
+5,Im326_g_ACRIMA.jpg,1,1,0.8879823684692383,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_05_correct_Im326_g_ACRIMA.jpg.png
+6,Im338_g_ACRIMA.jpg,1,1,0.43442627787590027,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_06_correct_Im338_g_ACRIMA.jpg.png
+7,Im345_g_ACRIMA.jpg,1,1,0.9222315549850464,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_07_correct_Im345_g_ACRIMA.jpg.png
+8,Im354_g_ACRIMA.jpg,1,1,0.989776611328125,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_08_correct_Im354_g_ACRIMA.jpg.png
+9,Im356_g_ACRIMA.jpg,1,1,0.7648184895515442,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_09_correct_Im356_g_ACRIMA.jpg.png
+10,Im360_g_ACRIMA.jpg,1,1,0.6138988137245178,0.3615269362926483,CORRECT,xai_efficientnet_b0_acrima_sample_10_correct_Im360_g_ACRIMA.jpg.png

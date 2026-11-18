@@ -1,0 +1,2 @@
+threshold,accuracy,sensitivity,specificity,precision,f1_score,roc_auc,pr_auc,confusion_matrix,val_loss
+0.48808979988098145,0.875,0.75,0.8888888888888888,0.42857142857142855,0.5454545454545454,0.9027777777777779,0.682093253968254,"{'tn': 64, 'fp': 8, 'fn': 2, 'tp': 6}",0.869932758808136

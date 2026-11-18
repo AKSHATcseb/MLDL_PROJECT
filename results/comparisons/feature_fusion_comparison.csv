@@ -1,0 +1,4 @@
+Model Pipeline,ROC-AUC,Accuracy,F1-Score
+Model A (Image-Only Deep Learning),0.6024,0.125,0.1667
+Model B (Segmentation Features: vCDR + Area Ratio),0.9549,0.9,0.0
+Model C (Multi-Modal Feature Fusion: Image + vCDR),0.9479,0.9,0.0
